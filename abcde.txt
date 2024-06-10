@@ -1,18 +1,2 @@
-Hi
-Hello
+My name is Shuvam
 
-<<<<<<< HEAD
-1111
-
-3333
-=======
-
-2222
-
-4444
-5555
-6666
-
-roni
-roni roni
->>>>>>> newbranch12
