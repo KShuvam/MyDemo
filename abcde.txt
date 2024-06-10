@@ -1,6 +1,18 @@
 Hi
 Hello
 
+<<<<<<< HEAD
 1111
 
 3333
+=======
+
+2222
+
+4444
+5555
+6666
+
+roni
+roni roni
+>>>>>>> newbranch12
